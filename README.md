@@ -18,6 +18,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Princet806&layout=compact&theme=radical)
 
 ## 🌟 Projects
-- [Project Name 1](https://github.com/Princet806/project1)
-- [Project Name 2](https://github.com/Princet806/project2)
+- [College Website](https://github.com/Princet806/project1)
+- [Naruto's Portfolio](https://github.com/Princet806/project2)
 
