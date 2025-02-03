@@ -15,6 +15,13 @@
   ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)  
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white"/>
+</p>
+
 ## 🏆 Competitive Programming
 - ✨ I'm actively solving problems on **CodeChef**. Check out my profile:  
   [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4636?logo=codechef&logoColor=white)](https://www.codechef.com/users/chefprince)
