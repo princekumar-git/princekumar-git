@@ -23,7 +23,7 @@
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Princekumar-git&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Princet806&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Princekumar-git&layout=compact&theme=radical)
 
 ## 🌟 Projects
 - [College Website](https://github.com/Princet806/project1)
