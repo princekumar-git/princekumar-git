@@ -22,7 +22,7 @@
   [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4636?logo=codechef&logoColor=white)](https://www.codechef.com/users/chefprince)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Princet806&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Princekumar-git&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Princet806&layout=compact&theme=radical)
 
 ## 🌟 Projects
