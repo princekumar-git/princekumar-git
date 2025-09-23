@@ -45,8 +45,9 @@
 
 ## 🌟 Featured Projects
 
-- 🔗 [College Website](https://github.com/Princet806/project1) — A simple and responsive college website  
-- 🔗 [Naruto's Portfolio](https://github.com/Princet806/project2) — A fun portfolio inspired by the Naruto anime universe
+- 🔗 [College Website](https://github.com/Princet806/College-webpage) — A simple and responsive college website  
+- 🔗 [Naruto's Portfolio](https://github.com/Princet806/Naruto-portfolio) — A fun portfolio inspired by the Naruto anime universe
+- 🔗 [Chess Game](https://github.com/princekumar-git/chess) — A chess game for two player to play offline. ENJOY!
 
 ---
 
