@@ -1,5 +1,4 @@
-# Hi there,
-## I'm Prince
+# Hi there, I'm Prince
 CSE student interested in backend development, coding platforms, and building practical software.  
 Currently working on **CampusCode**, a coding contest platform.
 
@@ -7,10 +6,10 @@ Currently working on **CampusCode**, a coding contest platform.
 
 | Platform | Link |
 |--------|------|
-| YouTube | https://youtube.com/yourchannel |
-| Instagram | https://instagram.com/yourusername |
-| LinkedIn | https://linkedin.com/in/yourusername |
-| Email | yourmail@example.com |
+| YouTube | https://youtube.com/@myenv |
+| Instagram | https://instagram.com/myenv.in |
+| LinkedIn | https://linkedin.com/in/myenv |
+| Email | pt962441@gmail.com |
 
 ## What I Know
 
