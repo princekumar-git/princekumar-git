@@ -1,23 +1,34 @@
 # Hi there, I'm Prince
+
 CSE student interested in backend development, coding platforms, and building practical software.  
 Currently working on **CampusCode**, a coding contest platform.
 
-## Connect With Me
+<table>
+<tr>
+<td valign="top">
+
+### Connect With Me
 
 | Platform | Link |
-|--------|------|
+|---------|------|
 | YouTube | https://youtube.com/@myenv |
 | Instagram | https://instagram.com/myenv.in |
 | LinkedIn | https://linkedin.com/in/myenv |
 | Email | pt962441@gmail.com |
 
-## What I Know
+</td>
+
+<td valign="top">
+
+### What I Know
 
 | Category | Skills |
 |---------|-------|
-| Languages | C++, JavaScript, Python |
-| Backend | Node.js, Express |
-| Frontend | HTML, CSS, Tailwind |
+| Languages | C++, Java, JavaScript, Python |
+| Backend | Node.js, Express, Django, Flask |
 | Database | PostgreSQL, MySQL |
 | Tools | Git, GitHub, Linux (Ubuntu) |
-| Currently Learning | Docker, System Design |
+
+</td>
+</tr>
+</table>
